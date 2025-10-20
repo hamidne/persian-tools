@@ -1,44 +1,44 @@
 ---
 name: Bug report
-about: Create a thorough bug report to help us improve
-title: ''
-labels: ''
-assignees: ''
+
+about: Create a report to help us improve
+
+labels: bug
+
 ---
 
-## **Description of the Issue**
-<!-- Briefly describe the bug so it’s clear and concise. -->
+## Environment
 
-## **Steps to Reproduce**
+- Package manager: bun
+
+## Installation Instructions
+
+To install this package using bun, run:
+
+```bash
+bun add your-package-name
+```
+
+## Describe the bug
+
+A clear and concise description of what the bug is.
+
+## To Reproduce
+
+Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '...'
-3. Scroll to '...'
+3. Scroll down to '...'
 4. See error
 
-## **Expected Behavior**
-<!-- Describe what you *expected* to happen. -->
+## Expected behavior
 
-## **Observed Behavior**
-<!-- Describe what *actually* happened. -->
+A clear and concise description of what you expected to happen.
 
-## **Screenshots or Logs (if applicable)**
-<!-- Attach screenshots, error logs, or console output to help illustrate the problem. -->
+## Screenshots
 
-## **Environment**
-<!-- Replace each example with the specific information for your setup. 
-     Include as many relevant details as possible.  -->
-- **Device/OS**: [e.g., Windows 10, iPhone 12]
-- **Browser**: [e.g., Chrome 105, Safari iOS]
-- **App Version**: [e.g., 1.2.3]
-- **Other Context**: [e.g., specific library versions, VPN usage]
+If applicable, add screenshots to help explain your problem.
 
-## **Additional Context**
-<!-- Add any other details that may be relevant (related issues, recent updates, etc.). -->
+## Additional context
 
----
-
-### **Checklist**
-- [ ] I have tested this bug on the latest version
-- [ ] I have attached all necessary logs, screenshots, or videos
-- [ ] I have checked existing issues and there's no open or closed issue addressing this
-- [ ] Ready for review
+Add any other context about the problem here.

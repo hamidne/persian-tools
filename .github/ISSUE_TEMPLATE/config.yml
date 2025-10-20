@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/persian-tools/persian-tools/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://persian-tools.usestrict.dev
+    about: Read the full API documentation and guides
+  - name: 🆘 Support
+    url: https://github.com/persian-tools/persian-tools/blob/master/SUPPORT.md
+    about: Get help and find resources for using Persian Tools
+  - name: 🔒 Security Issues
+    url: https://github.com/persian-tools/persian-tools/blob/master/SECURITY.md
+    about: Report security vulnerabilities privately

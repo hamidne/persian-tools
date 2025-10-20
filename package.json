@@ -4,6 +4,10 @@
 	"version": "4.0.4",
 	"files": [
 		"CONTRIBUTORS.md",
+		"LICENSE",
+		"README.md",
+		"CHANGELOG.md",
+		"SECURITY.md",
 		"./build/cjs",
 		"./build/esm"
 	],
